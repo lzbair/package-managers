@@ -7,9 +7,15 @@
 
 IPFS Package Managers Special Interest Group
 
-- [Package Management Glossary](glossary.md)
-- [Package Management Categories](categories.md)
 - [Package Manager list](package-managers)
+- [Package Management Glossary](docs/glossary.md)
+- [Package Management Categories](docs/categories.md)
+- [How IPFS Concepts map to package manager concepts](docs/concepts.md)
+- [Problems with Package Managers](docs/problems.md)
+- [Facilitating the Correct Abstractions](docs/abstractions.md)
+- [Package indexing and linking](docs/linking.md)
+- [Cladistic tree of depths of integration](docs/decentralization.md)
+- [Decentralized Publishing](docs/decentralization.md)
 
 ## Integrations
 
